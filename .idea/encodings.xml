@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/springboot-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-eureka-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-eureka-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-eureka-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatis-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-mybatis/src/main/resources/application.yml" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/springboot-vue" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
