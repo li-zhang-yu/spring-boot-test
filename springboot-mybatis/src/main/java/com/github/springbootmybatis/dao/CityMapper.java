@@ -3,7 +3,6 @@ package com.github.springbootmybatis.dao;
 import com.github.springbootmybatis.entity.City;
 import org.apache.ibatis.annotations.Mapper;
 
-
 public interface CityMapper {
     int deleteByPrimaryKey(Integer id);
 

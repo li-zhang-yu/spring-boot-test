@@ -16,4 +16,6 @@ public interface CityService {
 
     City selectByPrimaryKey(int id);
 
+    int insert(City record);
+
 }

@@ -13,13 +13,13 @@ public class CityServiceImpl implements CityService {
     @Autowired
     private CityMapper cityMapper;
 
-//    @Override
-//    public City findCityByName(String cityName) {
-//        return cityMapper.findByName(cityName);
-//    }
-
     @Override
     public City selectByPrimaryKey(@Param("id") int id) {
         return cityMapper.selectByPrimaryKey(id);
+    }
+
+    @Override
+    public int insert(City record) {
+        return cityMapper.insert(record);
     }
 }
